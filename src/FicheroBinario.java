@@ -43,6 +43,7 @@ public class FicheroBinario {
     }
 
 
+
     public static void testLeerFicheroBinario() {
         ObjectInputStream f = null;
         File fichero = null;
